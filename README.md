@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**danieltle/danieltle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Daniel**, a Mathematics, Statistics, and Computer Science student at [Colby College](https://www.colby.edu/).
 
-Here are some ideas to get you started:
+This GitHub is where I keep track of my projects and notes, both in programming and mathematics. It's a collection of things I've built, things I'm learning, and ideas I find interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always happy to chat about **math**, **coding**, **vocal pedagogy**, or whatever interesting topic happens to come up.
+
+📫 You can reach me at:
+- Email: [danieltle0602@gmail.com](mailto:danieltle0602@gmail.com)
+- LinkedIn: [Daniel Le](https://www.linkedin.com/in/danielle06/)
+
+Thanks for visiting my page, and I hope you find something interesting here!
