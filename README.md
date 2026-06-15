@@ -14,24 +14,16 @@ Thanks for visiting my page, and I hope you find something interesting here!
 
 P.S.: Of course, as a math nerd, here's my favorite theorem:
 
-> **Theorem (Picard–Lindelöf).** Let $\mathcal D \subset \mathbb{R}^n$ be a non-empty open set, $I \subset \mathbb{R}$ be an open interval, and let
-> $F : I \times \mathcal D \to \mathbb{R}^n$ be continuous. Suppose that for every $(t_0,x_0)\in I\times \mathcal D$, there exist constants $\delta_1,\delta_2>0$ and $L\ge 0$ such that
+> **Theorem (Picard–Lindelöf).** Let $G$ be a finite group. If $H$ is a subgroup of $G$, then $|H|$ is a divisor of $|G|$.
 > 
+> *Proof* Let $\{a_iH\}_{i=1}^k$ be the set of all distinct cosets of $H$ in $G$. Then
+>
 > $$
-> |F(s,x)-F(s,y)| \le L|x-y|
+G = a_0H \cup a_1H \cup \dots \cup a_kH,
 > $$
-> 
-> for all $s\in [t_0-\delta_1,t_0+\delta_1]\subset I$ and all $x,y$ in the closed ball
-> 
+since each $g \in G$ lies in $gH$, and $gH = a_iH$ for some $i$. Since each set is distinct, they are disjoint. It follows that
+>
 > $$
-> B(x_0,\delta_2)=\\{x\in\mathbb{R}^n:|x-x_0|\le\delta_2\\}\subset \mathcal D.
+|G| = \sum_{i=0}^k|a_iH| = \sum_{i=0}^k|H| = k|H|,
 > $$
-> 
-> Then, for every $(t_0,x_0)\in I\times \mathcal D$, there exists $\delta>0$ and a unique function
-> $x \in C^1\bigl((t_0-\delta,t_0+\delta),\mathbb{R}^n\bigr)$ satisfying
-> 
-> $$
-> x'(t)=F(t,x(t)), \qquad x(t_0)=x_0,
-> $$
-> 
-> for all $t\in (t_0-\delta,t_0+\delta)$.
+> which is what we want to show. It follows from this theorem that $|G| = [G:H]|H|$.
