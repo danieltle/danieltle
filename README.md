@@ -14,16 +14,14 @@ Thanks for visiting my page, and I hope you find something interesting here!
 
 P.S.: Of course, as a math nerd, here's my favorite theorem:
 
-> **Theorem (Picard–Lindelöf).** Let $G$ be a finite group. If $H$ is a subgroup of $G$, then $|H|$ is a divisor of $|G|$.
-> 
-> *Proof* Let $\{a_iH\}_{i=1}^k$ be the set of all distinct cosets of $H$ in $G$. Then
+> **Theorem (Lagrange's).** Let $G$ be a finite group. If $H$ is a subgroup of $G$, then $|H|$ is a divisor of $|G|$.
+>  
+> *Proof.* Let $\{a_iH\}_{i=1}^k$ be the set of all distinct cosets of $H$ in $G$. Then
 >
-> $$
-G = a_0H \cup a_1H \cup \dots \cup a_kH,
-> $$
-since each $g \in G$ lies in $gH$, and $gH = a_iH$ for some $i$. Since each set is distinct, they are disjoint. It follows that
+> $$G = a_1H \cup a_2H \cup \dots \cup a_kH,$$
 >
-> $$
-|G| = \sum_{i=0}^k|a_iH| = \sum_{i=0}^k|H| = k|H|,
-> $$
-> which is what we want to show. It follows from this theorem that $|G| = [G:H]|H|$.
+> since each $g \in G$ lies in $gH$, and $gH = a_iH$ for some $i$. Since each set is distinct, they are disjoint. It follows that
+>
+> $$|G| = \sum_{i=1}^k|a_iH| = \sum_{i=1}^k|H| = k|H|,$$
+>
+> which is what we want to show. $\quad \square$
