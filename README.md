@@ -19,7 +19,11 @@ $F : I \times D \to \mathbb{R}^n$ be continuous. Suppose that for every $(t_0,x_
 
 $$|F(s,x)-F(s,y)| \le L|x-y|$$
 
-for all $s\in [t_0-\delta_1,t_0+\delta_1]\subset I$ and all $x,y$ in the closed ball $B(x_0,\delta_2)={x\in\mathbb{R}^n:|x-x_0|\le\delta_2}\subset D.$ Then, for every $(t_0,x_0)\in I\times D$, there exists $\delta>0$ and a unique function $x \in C^1\bigl((t_0-\delta,t_0+\delta),\mathbb{R}^n\bigr)$ satisfying
+for all $s\in [t_0-\delta_1,t_0+\delta_1]\subset I$ and all $x,y$ in the closed ball 
+
+$$B(x_0,\delta_2)=\\{x\in\mathbb{R}^n:|x-x_0|\le\delta_2\\}\subset D.$$ 
+
+Then, for every $(t_0,x_0)\in I\times D$, there exists $\delta>0$ and a unique function $x \in C^1\bigl((t_0-\delta,t_0+\delta),\mathbb{R}^n\bigr)$ satisfying
 
 $$x'(t)=F(t,x(t)), \qquad x(t_0)=x_0,$$
 
