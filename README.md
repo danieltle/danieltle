@@ -18,7 +18,7 @@ P.S.: Of course, as a math nerd, here's my favorite theorem:
 >  
 > *Proof.* Let $\{a_iH\}_{i=1}^k$ be the set of all distinct cosets of $H$ in $G$. Then
 >
-> $$G = a_1H \cup a_2H \cup \dots \cup a_kH,$$
+> $$G = a_1H \cup a_2H \cup \dots \cup a_kH$$
 >
 > since each $g \in G$ lies in $gH$, and $gH = a_iH$ for some $i$. Since each set is distinct, they are disjoint. It follows that
 >
