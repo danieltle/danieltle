@@ -24,4 +24,4 @@ P.S.: Of course, as a math nerd, here's my favorite theorem:
 >
 > $$|G| = \sum_{i=1}^k|a_iH| = \sum_{i=1}^k|H| = k|H|,$$
 >
-> which is what we want to show. $\quad \square$
+> which is what we want to show. $\\: \square$
