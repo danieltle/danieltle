@@ -12,7 +12,7 @@ I'm always happy to chat about **math**, **coding**, **vocal pedagogy**, or what
 
 Thanks for visiting my page, and I hope you find something interesting here!
 
-P.S. Of course, as a math nerd, here's my favorite theorem:
+P.S.: Of course, as a math nerd, here's my favorite theorem:
 
 **Theorem (Picard–Lindelöf).** Let $\mathcal D \subset \mathbb{R}^n$ be a non-empty open set, $I \subset \mathbb{R}$ be an open interval, and let
 $F : I \times D \to \mathbb{R}^n$ be continuous. Suppose that for every $(t_0,x_0)\in I\times D$, there exist constants $\delta_1,\delta_2>0$ and $L\ge 0$ such that
