@@ -14,4 +14,4 @@ Thanks for visiting my page, and I hope you find something interesting here!
 
 P.S.: Of course, as a math nerd, here's my favorite theorem:
 
-**Theorem (Prime Decomposition of Surfaces).** Any surface $F$ can be decomposed into prime factors, i.e., $F$ is diffeomorphic to $F_1 \\# \dots \\# F_g$ with $F_i$ being prime surfaces.
+**Theorem (Prime Decomposition of Surfaces).** Any surface $F$ is diffeomorphic to $F_1 \\# \dots \\# F_g$ with $F_i$ being prime surfaces.
