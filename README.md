@@ -16,16 +16,22 @@ P.S.: Of course, as a math nerd, here's my favorite theorem:
 
 > **Theorem (Picard–Lindelöf).** Let $\mathcal D \subset \mathbb{R}^n$ be a non-empty open set, $I \subset \mathbb{R}$ be an open interval, and let
 > $F : I \times \mathcal D \to \mathbb{R}^n$ be continuous. Suppose that for every $(t_0,x_0)\in I\times \mathcal D$, there exist constants $\delta_1,\delta_2>0$ and $L\ge 0$ such that
+> 
 > $$
 > |F(s,x)-F(s,y)| \le L|x-y|
 > $$
+> 
 > for all $s\in [t_0-\delta_1,t_0+\delta_1]\subset I$ and all $x,y$ in the closed ball
+> 
 > $$
 > B(x_0,\delta_2)=\\{x\in\mathbb{R}^n:|x-x_0|\le\delta_2\\}\subset \mathcal D.
 > $$
+> 
 > Then, for every $(t_0,x_0)\in I\times \mathcal D$, there exists $\delta>0$ and a unique function
 > $x \in C^1\bigl((t_0-\delta,t_0+\delta),\mathbb{R}^n\bigr)$ satisfying
+> 
 > $$
 > x'(t)=F(t,x(t)), \qquad x(t_0)=x_0,
 > $$
+> 
 > for all $t\in (t_0-\delta,t_0+\delta)$.
