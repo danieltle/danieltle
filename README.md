@@ -14,14 +14,4 @@ Thanks for visiting my page, and I hope you find something interesting here!
 
 P.S.: Of course, as a math nerd, here's my favorite theorem:
 
-> **Theorem (Lagrange's).** Let $G$ be a finite group. If $H$ is a subgroup of $G$, then $|H|$ is a divisor of $|G|$.
->  
-> *Proof.* Let $\{a_iH\}_{i=1}^k$ be the set of all distinct cosets of $H$ in $G$. Then
->
-> $$G = a_1H \cup a_2H \cup \dots \cup a_kH$$
->
-> since each $g \in G$ lies in $gH$, and $gH = a_iH$ for some $i$. Since each set is distinct, they are disjoint. It follows that
->
-> $$|G| = \sum_{i=1}^k|a_iH| = \sum_{i=1}^k|H| = k|H|,$$
->
-> which is what we want to show. $\\: \square$
+> **Theorem (Prime Decomposition of Surfaces).** Any surface $F$ can be decomposed into prime factors, i.e., $F$ is diffeomorphic to $F_1 \\# \dots \\# F_g$ with $F_i$ being prime surfaces.
