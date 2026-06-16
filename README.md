@@ -1,4 +1,8 @@
-# 👋 Hi there!
+<p align="center">
+  <img src="images/homotopy.png" alt="Cup Donut" width="600">
+</p>
+
+# Hello there! 🧙🏼‍♂️🪄
 
 I'm **Daniel**, a Mathematics and Statistics double major, Computer Science minor student at [Colby College](https://www.colby.edu/).
 
