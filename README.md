@@ -8,7 +8,7 @@ I'm **Daniel**, a Mathematics and Statistics double major, Computer Science mino
 
 This GitHub is where I keep track of my projects and notes, both in programming and mathematics. It's a collection of things I've built, things I'm learning, and ideas I find interesting.
 
-I'm always happy to chat about **math**, **coding**, **vocal pedagogy**, or whatever interesting topic that happens to come up.
+I'm always happy to chat about **math**, **coding**, **Harry Potter**, **music**, or whatever interesting topic that happens to come up.
 
 📫 You can reach me at:
 - Email: [danieltle0602@gmail.com](mailto:danieltle0602@gmail.com)
