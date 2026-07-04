@@ -12,6 +12,7 @@ I'm always happy to chat about **math**, **coding**, **Harry Potter**, **music**
 
 📫 You can reach me at:
 - Email: [danieltle0602@gmail.com](mailto:danieltle0602@gmail.com)
+- Email (.edu): [dtle28@colby.edu](mailto:dtle28@colby.edu)
 - LinkedIn: [Daniel Le](https://www.linkedin.com/in/danielle06/)
 
 Thanks for visiting my page, and I hope you find something interesting here!
