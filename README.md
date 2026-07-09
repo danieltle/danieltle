@@ -15,6 +15,8 @@ I'm always happy to chat about **math**, **coding**, **Harry Potter**, **music**
 - Email (.edu): [dtle28@colby.edu](mailto:dtle28@colby.edu)
 - LinkedIn: [Daniel Le](https://www.linkedin.com/in/danielle06/)
 
+🎶 When I'm bored, I do music ratings. You can find me rating albums here: [musicboard](musicboard.app/zlqtljstk).
+
 Thanks for visiting my page, and I hope you find something interesting here!
 
 P.S.: Of course, as a math nerd, here's my favorite theorem:
