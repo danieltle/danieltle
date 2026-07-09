@@ -19,4 +19,4 @@ I'm always happy to chat about **math**, **coding**, **Harry Potter**, **music**
 
 Thanks for visiting my page, and I hope you find something interesting here!
 
-P.S.: Of course, as a math nerd, my favourite mathematical objects are [Hausdorff spaces](https://en.wikipedia.org/wiki/Hausdorff_space). Can you imagine everyone owning that much space all for themselves? 
+P.S.: My favourite mathematical objects are [Hausdorff spaces](https://en.wikipedia.org/wiki/Hausdorff_space). Can you imagine everyone owning that much space all for themselves? 
